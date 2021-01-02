@@ -1,5 +1,5 @@
 # TelePost
-Whatsapp meets BlackBerry Messenger - The most complete and secure messaging and social Android / iOS app.
+Whatsapp meets BlackBerry Messenger - Private and secure socializing app for Android / iOS .
 
 -- Live user feeds
 -- End-to-end encryption
